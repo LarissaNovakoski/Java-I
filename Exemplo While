@@ -1,0 +1,12 @@
+public class ExempploWhile 
+{
+    public static void main(String[] args) 
+    {
+        int d = 0;
+        
+        while(d<10)
+        {
+            System.out.println("O valor de d é: " + d++);
+        }
+    }
+}
